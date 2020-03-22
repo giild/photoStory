@@ -17,3 +17,6 @@ This challenge was created by GiiLD for beginners. You can use GiiLD's web based
 4. when the editor window opens, you will have a sample index.html file. it will show the page on the right side
 5. add a new file named style.css by clicking File -> New File
 6. to upload photos, click File -> Upload
+
+### Editor Tips
+Save the file to see the changes File -> Save
